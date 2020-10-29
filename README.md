@@ -9,7 +9,7 @@ It will also install `selenium` lib by activating the virtual environment.
 
 
 run.bat :                                                                                                                                                                
-This batch script will automate all the process of activating virtual environment and running the python scrip from your Desktop.                                        
+This batch script will automate all the process of activating virtual environment and running the python script from your Desktop.                                        
 You need to run this file each time you want to mark your attendance.
 
                                                                                                                                                                                  
